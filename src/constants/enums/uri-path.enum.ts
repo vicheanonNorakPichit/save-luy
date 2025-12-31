@@ -1,0 +1,3 @@
+export enum UriPathEnum {
+  INDEX = "/",
+}
